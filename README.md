@@ -273,8 +273,8 @@ spec:
 ### 1️⃣ Clone the GitHub Repository
 
 ```bash
-git clone https://github.com/OjoOluwagbenga700/Netflix-Clone--aws-eks.git
-cd Netflix-Clone--aws-eks
+git clone https://github.com/shefreddy/Movie-appClone-aws-eks.git
+cd Movie-appClone-aws-eks
 ```
 
 ### 2️⃣ Configure GitHub Secrets
